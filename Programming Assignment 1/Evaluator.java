@@ -147,7 +147,7 @@ final public class Evaluator {
            case ')':
             return -1;
          default:
-            return -5
+            return -5;
       }
    }
 
