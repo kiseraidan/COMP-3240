@@ -1,5 +1,5 @@
 /** 
- * Directions:
+ * Directions
  * A positive integer is “magic” if, and only if, it can be reduced to 1 by
  * repeatedly dividing it by 2 if it’s even or multiplying it by 3 and then
  * adding 1 if it’s odd. So, for example, 3 is magic because 3 reduces first to
