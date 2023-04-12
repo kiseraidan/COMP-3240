@@ -212,7 +212,7 @@ weather, and precision
       // Generate the forecast for the next 7 days
       float[][] forecast = generate_forecast(transition_matrix, curr_weather);
 
-      // Print the forecasted weather predictions
+      // Print the forecasted weather predictions!
       print_predictions(forecast);
 
       float[] steady_state_vector = generate_climate_prediction(transition_matrix, curr_weather, precision);
